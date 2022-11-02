@@ -1,4 +1,4 @@
-# MurphyBedRoomLighting
+# Murphy Bed Room Lighting
 Creating automated lighting systems for a tiny room with a Murphy bed.
 ## Potential Lighting Systems
 * Automated color temperature changing with bed position
